@@ -1,0 +1,290 @@
+//{
+//  "ReRoutes": [
+//    {
+//      "DownStreamPathTemplate": "/api/flights",
+//      "DownStreamScheme": "http",
+//      "DownStreamHost": "localhost",
+//      "DownStreamPort": 9100,
+//      "UpStreamPathTemplate": "/flights",
+//      "UpStreamHttpMethod": [ "Get" ],
+//      "QoSOptions": {
+//        "ExceptionsAllowedBeforeBreaking": 3,
+//        "DurationOfBreak": 10,
+//        "TimeoutValue": 5000
+//      }
+//    },
+//    {
+//      "DownStreamPathTemplate": "/api/flights/{useremail}",
+//      "DownStreamScheme": "http",
+//      "DownStreamHost": "localhost",
+//      "DownStreamPort": 9100,
+//      "UpStreamPathTemplate": "/flights/{useremail}",
+//      "UpStreamHttpMethod": [ "Get" ],
+//      "QoSOptions": {
+//        "ExceptionsAllowedBeforeBreaking": 3,
+//        "DurationOfBreak": 10,
+//        "TimeoutValue": 5000
+//      }
+//    },
+//    {
+//      "DownStreamPathTemplate": "/api/flights/getticketdetails/{ticketno}",
+//      "DownStreamScheme": "http",
+//      "DownStreamHost": "localhost",
+//      "DownStreamPort": 9100,
+//      "UpStreamPathTemplate": "/flights/getticketdetails/{ticketno}",
+//      "UpStreamHttpMethod": [ "Get" ],
+//      "QoSOptions": {
+//        "ExceptionsAllowedBeforeBreaking": 3,
+//        "DurationOfBreak": 10,
+//        "TimeoutValue": 5000
+//      }
+//    },
+//    {
+//      "DownStreamPathTemplate": "/api/airline/addairline",
+//      "DownStreamScheme": "http",
+//      "DownStreamHost": "localhost",
+//      "DownStreamPort": 9300,
+//      "UpStreamPathTemplate": "/airline/addairline",
+//      "UpStreamHttpMethod": [ "Post" ],
+//      "QoSOptions": {
+//        "ExceptionsAllowedBeforeBreaking": 3,
+//        "DurationOfBreak": 10,
+//        "TimeoutValue": 5000
+//      }
+//    },
+//    {
+//      "DownStreamPathTemplate": "/api/flights/bookflight",
+//      "DownStreamScheme": "http",
+//      "DownStreamHost": "localhost",
+//      "DownStreamPort": 9100,
+//      "UpStreamPathTemplate": "/flights/bookflight",
+//      "UpStreamHttpMethod": [ "Post" ],
+//      "QoSOptions": {
+//        "ExceptionsAllowedBeforeBreaking": 3,
+//        "DurationOfBreak": 10,
+//        "TimeoutValue": 5000
+//      }
+//    },
+//    {
+//      "DownStreamPathTemplate": "/api/flights/cancelflight",
+//      "DownStreamScheme": "http",
+//      "DownStreamHost": "localhost",
+//      "DownStreamPort": 9100,
+//      "UpStreamPathTemplate": "/flights/cancelflight",
+//      "UpStreamHttpMethod": [ "Get" ],
+//      "QoSOptions": {
+//        "ExceptionsAllowedBeforeBreaking": 3,
+//        "DurationOfBreak": 10,
+//        "TimeoutValue": 5000
+//      }
+//    },
+//    {
+//      "DownStreamPathTemplate": "/api/airline/blockairline",
+//      "DownStreamScheme": "http",
+//      "DownStreamHost": "localhost",
+//      "DownStreamPort": 9300,
+//      "UpStreamPathTemplate": "/airline/blockairline",
+//      "UpStreamHttpMethod": [ "Get" ],
+//      "QoSOptions": {
+//        "ExceptionsAllowedBeforeBreaking": 3,
+//        "DurationOfBreak": 10,
+//        "TimeoutValue": 5000
+//      }
+//    },
+//    {
+//      "DownStreamPathTemplate": "/api/airline/scheduleflight",
+//      "DownStreamScheme": "http",
+//      "DownStreamHost": "localhost",
+//      "DownStreamPort": 9300,
+//      "UpStreamPathTemplate": "/airline/scheduleflight",
+//      "UpStreamHttpMethod": [ "Post" ],
+//      "QoSOptions": {
+//        "ExceptionsAllowedBeforeBreaking": 3,
+//        "DurationOfBreak": 10,
+//        "TimeoutValue": 5000
+//      }
+//    },
+//    {
+//      "DownStreamPathTemplate": "api/airline/getairlines",
+//      "DownStreamScheme": "http",
+//      "DownStreamHost": "localhost",
+//      "DownStreamPort": 9300,
+//      "UpStreamPathTemplate": "/airline/getairlines",
+//      "UpStreamHttpMethod": [ "Get" ],
+//      "QoSOptions": {
+//        "ExceptionsAllowedBeforeBreaking": 3,
+//        "DurationOfBreak": 10,
+//        "TimeoutValue": 5000
+//      }
+//    },
+//    {
+//      "DownStreamPathTemplate": "/api/auth",
+//      "DownStreamScheme": "http",
+//      "DownStreamHost": "localhost",
+//      "DownStreamPort": 9400,
+//      "UpStreamPathTemplate": "/api/auth",
+//      "UpStreamHttpMethod": [ "Post" ],
+//      "QoSOptions": {
+//        "ExceptionsAllowedBeforeBreaking": 3,
+//        "DurationOfBreak": 10,
+//        "TimeoutValue": 5000
+//      }
+//    }
+//  ],
+//  "GlobalConfiguration": {
+//    "RequestIdKey": "OcRequestId",
+//    "AdministrationPath":  "/administration"
+//  }
+//}
+
+{
+  "ReRoutes": [
+    {
+      "DownStreamPathTemplate": "/api/flights",
+      "DownStreamScheme": "http",
+      "DownStreamHost": "localhost",
+      "DownStreamPort": 9100,
+      "UpStreamPathTemplate": "/flights",
+      "UpStreamHttpMethod": [ "Get" ],
+      "QoSOptions": {
+        "ExceptionsAllowedBeforeBreaking": 3,
+        "DurationOfBreak": 10,
+        "TimeoutValue": 5000
+      }
+    },
+    {
+      "DownStreamPathTemplate": "/api/flights/{useremail}",
+      "DownStreamScheme": "http",
+      "DownStreamHost": "localhost",
+      "DownStreamPort": 9100,
+      "UpStreamPathTemplate": "/flights/{useremail}",
+      "UpStreamHttpMethod": [ "Get" ],
+      "QoSOptions": {
+        "ExceptionsAllowedBeforeBreaking": 3,
+        "DurationOfBreak": 10,
+        "TimeoutValue": 5000
+      }
+    },
+    {
+      "DownStreamPathTemplate": "/api/flights/getticketdetails/{ticketno}",
+      "DownStreamScheme": "http",
+      "DownStreamHost": "localhost",
+      "DownStreamPort": 9100,
+      "UpStreamPathTemplate": "/flights/getticketdetails/{ticketno}",
+      "UpStreamHttpMethod": [ "Get" ],
+      "QoSOptions": {
+        "ExceptionsAllowedBeforeBreaking": 3,
+        "DurationOfBreak": 10,
+        "TimeoutValue": 5000
+      }
+    },
+    {
+      "DownStreamPathTemplate": "/api/airline/addairline",
+      "DownStreamScheme": "http",
+      "DownStreamHost": "localhost",
+      "DownStreamPort": 9300,
+      "UpStreamPathTemplate": "/airline/addairline",
+      "UpStreamHttpMethod": [ "Post" ],
+      "QoSOptions": {
+        "ExceptionsAllowedBeforeBreaking": 3,
+        "DurationOfBreak": 10,
+        "TimeoutValue": 5000
+      }
+    },
+    {
+      "DownStreamPathTemplate": "/api/flights/bookflight",
+      "DownStreamScheme": "http",
+      "DownStreamHost": "localhost",
+      "DownStreamPort": 9100,
+      "UpStreamPathTemplate": "/flights/bookflight",
+      "UpStreamHttpMethod": [ "Post" ],
+      "QoSOptions": {
+        "ExceptionsAllowedBeforeBreaking": 3,
+        "DurationOfBreak": 10,
+        "TimeoutValue": 5000
+      }
+    },
+    {
+      "DownStreamPathTemplate": "/api/flights/cancelflight",
+      "DownStreamScheme": "http",
+      "DownStreamHost": "localhost",
+      "DownStreamPort": 9100,
+      "UpStreamPathTemplate": "/flights/cancelflight",
+      "UpStreamHttpMethod": [ "Get" ],
+      "QoSOptions": {
+        "ExceptionsAllowedBeforeBreaking": 3,
+        "DurationOfBreak": 10,
+        "TimeoutValue": 5000
+      }
+    },
+    {
+      "DownStreamPathTemplate": "/api/airline/blockairline",
+      "DownStreamScheme": "http",
+      "DownStreamHost": "localhost",
+      "DownStreamPort": 9300,
+      "UpStreamPathTemplate": "/airline/blockairline",
+      "UpStreamHttpMethod": [ "Get" ],
+      "QoSOptions": {
+        "ExceptionsAllowedBeforeBreaking": 3,
+        "DurationOfBreak": 10,
+        "TimeoutValue": 5000
+      }
+    },
+    {
+      "DownStreamPathTemplate": "/api/airline/scheduleflight",
+      "DownStreamScheme": "http",
+      "DownStreamHost": "localhost",
+      "DownStreamPort": 9300,
+      "UpStreamPathTemplate": "/airline/scheduleflight",
+      "UpStreamHttpMethod": [ "Post" ],
+      "QoSOptions": {
+        "ExceptionsAllowedBeforeBreaking": 3,
+        "DurationOfBreak": 10,
+        "TimeoutValue": 5000
+      }
+    },
+    {
+      "DownStreamPathTemplate": "/api/auth",
+      "DownStreamScheme": "http",
+      "DownStreamHost": "localhost",
+      "DownStreamPort": 9400,
+      "UpStreamPathTemplate": "/api/auth",
+      "UpStreamHttpMethod": [ "Post" ],
+      "QoSOptions": {
+        "ExceptionsAllowedBeforeBreaking": 3,
+        "DurationOfBreak": 10,
+        "TimeoutValue": 5000
+      }
+    },
+    {
+      "DownStreamPathTemplate": "/api/airline/getairlines",
+      "DownStreamScheme": "http",
+      "DownStreamHost": "localhost",
+      "DownStreamPort": 9300,
+      "UpStreamPathTemplate": "/airline/getairlines",
+      "UpStreamHttpMethod": [ "Get" ],
+      "QoSOptions": {
+        "ExceptionsAllowedBeforeBreaking": 3,
+        "DurationOfBreak": 10,
+        "TimeoutValue": 5000
+      }
+    },
+    {
+      "DownStreamPathTemplate": "/api/airline/getflightinventory",
+      "DownStreamScheme": "http",
+      "DownStreamHost": "localhost",
+      "DownStreamPort": 9300,
+      "UpStreamPathTemplate": "/airline/getflightinventory",
+      "UpStreamHttpMethod": [ "Get" ],
+      "QoSOptions": {
+        "ExceptionsAllowedBeforeBreaking": 3,
+        "DurationOfBreak": 10,
+        "TimeoutValue": 5000
+      }
+    }
+  ],
+  "GlobalConfiguration": {
+    "RequestIdKey": "OcRequestId",
+    "AdministrationPath": "/administration"
+  }
+}

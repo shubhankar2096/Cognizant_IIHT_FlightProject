@@ -1,0 +1,57 @@
+C:\Users\cogdotnet36\source\repos\FlightProject\APIGateway\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\cogdotnet36\source\repos\FlightProject\APIGateway\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\cogdotnet36\source\repos\FlightProject\APIGateway\bin\Debug\netcoreapp2.1\APIGateway.deps.json
+C:\Users\cogdotnet36\source\repos\FlightProject\APIGateway\bin\Debug\netcoreapp2.1\APIGateway.runtimeconfig.json
+C:\Users\cogdotnet36\source\repos\FlightProject\APIGateway\bin\Debug\netcoreapp2.1\APIGateway.runtimeconfig.dev.json
+C:\Users\cogdotnet36\source\repos\FlightProject\APIGateway\bin\Debug\netcoreapp2.1\APIGateway.dll
+C:\Users\cogdotnet36\source\repos\FlightProject\APIGateway\bin\Debug\netcoreapp2.1\APIGateway.pdb
+C:\Users\cogdotnet36\source\repos\FlightProject\APIGateway\obj\Debug\netcoreapp2.1\APIGateway.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cogdotnet36\source\repos\FlightProject\APIGateway\obj\Debug\netcoreapp2.1\APIGateway.AssemblyInfoInputs.cache
+C:\Users\cogdotnet36\source\repos\FlightProject\APIGateway\obj\Debug\netcoreapp2.1\APIGateway.AssemblyInfo.cs
+C:\Users\cogdotnet36\source\repos\FlightProject\APIGateway\obj\Debug\netcoreapp2.1\APIGateway.csproj.CoreCompileInputs.cache
+C:\Users\cogdotnet36\source\repos\FlightProject\APIGateway\obj\Debug\netcoreapp2.1\APIGateway.RazorAssemblyInfo.cache
+C:\Users\cogdotnet36\source\repos\FlightProject\APIGateway\obj\Debug\netcoreapp2.1\APIGateway.RazorAssemblyInfo.cs
+C:\Users\cogdotnet36\source\repos\FlightProject\APIGateway\obj\Debug\netcoreapp2.1\APIGateway.RazorTargetAssemblyInfo.cache
+C:\Users\cogdotnet36\source\repos\FlightProject\APIGateway\obj\Debug\netcoreapp2.1\APIGateway.dll
+C:\Users\cogdotnet36\source\repos\FlightProject\APIGateway\obj\Debug\netcoreapp2.1\APIGateway.pdb
+C:\Users\cogdotnet36\source\repos\FlightProject\APIGateway\obj\Debug\netcoreapp2.1\APIGateway.genruntimeconfig.cache
+C:\Users\cogdotnet36\source\repos\FlightProject\APIGateway\bin\Debug\netcoreapp2.1\configuration.json
+C:\Users\cogdotnet36\source\repos\FlightProject\APIGateway\obj\Debug\netcoreapp2.1\APIGateway.csproj.AssemblyReference.cache
+C:\FlightProject\FlightProject\APIGateway\bin\Debug\netcoreapp2.1\APIGateway.dll
+C:\FlightProject\FlightProject\APIGateway\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\FlightProject\FlightProject\APIGateway\bin\Debug\netcoreapp2.1\appsettings.json
+C:\FlightProject\FlightProject\APIGateway\bin\Debug\netcoreapp2.1\configuration.json
+C:\FlightProject\FlightProject\APIGateway\bin\Debug\netcoreapp2.1\APIGateway.deps.json
+C:\FlightProject\FlightProject\APIGateway\bin\Debug\netcoreapp2.1\APIGateway.runtimeconfig.json
+C:\FlightProject\FlightProject\APIGateway\bin\Debug\netcoreapp2.1\APIGateway.runtimeconfig.dev.json
+C:\FlightProject\FlightProject\APIGateway\obj\Debug\netcoreapp2.1\APIGateway.csproj.AssemblyReference.cache
+C:\FlightProject\FlightProject\APIGateway\obj\Debug\netcoreapp2.1\APIGateway.GeneratedMSBuildEditorConfig.editorconfig
+C:\FlightProject\FlightProject\APIGateway\obj\Debug\netcoreapp2.1\APIGateway.AssemblyInfoInputs.cache
+C:\FlightProject\FlightProject\APIGateway\obj\Debug\netcoreapp2.1\APIGateway.AssemblyInfo.cs
+C:\FlightProject\FlightProject\APIGateway\obj\Debug\netcoreapp2.1\APIGateway.csproj.CoreCompileInputs.cache
+C:\FlightProject\FlightProject\APIGateway\obj\Debug\netcoreapp2.1\APIGateway.RazorAssemblyInfo.cache
+C:\FlightProject\FlightProject\APIGateway\obj\Debug\netcoreapp2.1\APIGateway.RazorAssemblyInfo.cs
+C:\FlightProject\FlightProject\APIGateway\obj\Debug\netcoreapp2.1\APIGateway.RazorTargetAssemblyInfo.cache
+C:\FlightProject\FlightProject\APIGateway\obj\Debug\netcoreapp2.1\APIGateway.dll
+C:\FlightProject\FlightProject\APIGateway\obj\Debug\netcoreapp2.1\APIGateway.pdb
+C:\FlightProject\FlightProject\APIGateway\obj\Debug\netcoreapp2.1\APIGateway.genruntimeconfig.cache
+C:\FlightProject\FlightProject\APIGateway\bin\Debug\netcoreapp2.1\APIGateway.pdb
+D:\Flight Project\FlightProject\APIGateway\bin\Debug\netcoreapp2.1\appsettings.Development.json
+D:\Flight Project\FlightProject\APIGateway\bin\Debug\netcoreapp2.1\appsettings.json
+D:\Flight Project\FlightProject\APIGateway\bin\Debug\netcoreapp2.1\configuration.json
+D:\Flight Project\FlightProject\APIGateway\bin\Debug\netcoreapp2.1\APIGateway.deps.json
+D:\Flight Project\FlightProject\APIGateway\bin\Debug\netcoreapp2.1\APIGateway.runtimeconfig.json
+D:\Flight Project\FlightProject\APIGateway\bin\Debug\netcoreapp2.1\APIGateway.runtimeconfig.dev.json
+D:\Flight Project\FlightProject\APIGateway\bin\Debug\netcoreapp2.1\APIGateway.dll
+D:\Flight Project\FlightProject\APIGateway\bin\Debug\netcoreapp2.1\APIGateway.pdb
+D:\Flight Project\FlightProject\APIGateway\obj\Debug\netcoreapp2.1\APIGateway.csproj.AssemblyReference.cache
+D:\Flight Project\FlightProject\APIGateway\obj\Debug\netcoreapp2.1\APIGateway.GeneratedMSBuildEditorConfig.editorconfig
+D:\Flight Project\FlightProject\APIGateway\obj\Debug\netcoreapp2.1\APIGateway.AssemblyInfoInputs.cache
+D:\Flight Project\FlightProject\APIGateway\obj\Debug\netcoreapp2.1\APIGateway.AssemblyInfo.cs
+D:\Flight Project\FlightProject\APIGateway\obj\Debug\netcoreapp2.1\APIGateway.csproj.CoreCompileInputs.cache
+D:\Flight Project\FlightProject\APIGateway\obj\Debug\netcoreapp2.1\APIGateway.RazorAssemblyInfo.cache
+D:\Flight Project\FlightProject\APIGateway\obj\Debug\netcoreapp2.1\APIGateway.RazorAssemblyInfo.cs
+D:\Flight Project\FlightProject\APIGateway\obj\Debug\netcoreapp2.1\APIGateway.RazorTargetAssemblyInfo.cache
+D:\Flight Project\FlightProject\APIGateway\obj\Debug\netcoreapp2.1\APIGateway.dll
+D:\Flight Project\FlightProject\APIGateway\obj\Debug\netcoreapp2.1\APIGateway.pdb
+D:\Flight Project\FlightProject\APIGateway\obj\Debug\netcoreapp2.1\APIGateway.genruntimeconfig.cache

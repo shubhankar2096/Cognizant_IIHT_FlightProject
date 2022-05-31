@@ -1,0 +1,36 @@
+C:\FlightProject\FlightProject\AuthenticationServer\bin\Debug\netcoreapp2.1\AuthenticationServer.dll
+C:\FlightProject\FlightProject\AuthenticationServer\obj\Debug\netcoreapp2.1\AuthenticationServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\FlightProject\FlightProject\AuthenticationServer\obj\Debug\netcoreapp2.1\AuthenticationServer.AssemblyInfoInputs.cache
+C:\FlightProject\FlightProject\AuthenticationServer\obj\Debug\netcoreapp2.1\AuthenticationServer.AssemblyInfo.cs
+C:\FlightProject\FlightProject\AuthenticationServer\obj\Debug\netcoreapp2.1\AuthenticationServer.csproj.CoreCompileInputs.cache
+C:\FlightProject\FlightProject\AuthenticationServer\obj\Debug\netcoreapp2.1\AuthenticationServer.RazorAssemblyInfo.cache
+C:\FlightProject\FlightProject\AuthenticationServer\obj\Debug\netcoreapp2.1\AuthenticationServer.RazorAssemblyInfo.cs
+C:\FlightProject\FlightProject\AuthenticationServer\obj\Debug\netcoreapp2.1\AuthenticationServer.csproj.AssemblyReference.cache
+C:\FlightProject\FlightProject\AuthenticationServer\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\FlightProject\FlightProject\AuthenticationServer\bin\Debug\netcoreapp2.1\appsettings.json
+C:\FlightProject\FlightProject\AuthenticationServer\bin\Debug\netcoreapp2.1\AuthenticationServer.deps.json
+C:\FlightProject\FlightProject\AuthenticationServer\bin\Debug\netcoreapp2.1\AuthenticationServer.runtimeconfig.json
+C:\FlightProject\FlightProject\AuthenticationServer\bin\Debug\netcoreapp2.1\AuthenticationServer.runtimeconfig.dev.json
+C:\FlightProject\FlightProject\AuthenticationServer\bin\Debug\netcoreapp2.1\AuthenticationServer.pdb
+C:\FlightProject\FlightProject\AuthenticationServer\obj\Debug\netcoreapp2.1\AuthenticationServer.RazorTargetAssemblyInfo.cache
+C:\FlightProject\FlightProject\AuthenticationServer\obj\Debug\netcoreapp2.1\AuthenticationServer.dll
+C:\FlightProject\FlightProject\AuthenticationServer\obj\Debug\netcoreapp2.1\AuthenticationServer.pdb
+C:\FlightProject\FlightProject\AuthenticationServer\obj\Debug\netcoreapp2.1\AuthenticationServer.genruntimeconfig.cache
+D:\Flight Project\FlightProject\AuthenticationServer\obj\Debug\netcoreapp2.1\AuthenticationServer.csproj.AssemblyReference.cache
+D:\Flight Project\FlightProject\AuthenticationServer\obj\Debug\netcoreapp2.1\AuthenticationServer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Flight Project\FlightProject\AuthenticationServer\obj\Debug\netcoreapp2.1\AuthenticationServer.AssemblyInfoInputs.cache
+D:\Flight Project\FlightProject\AuthenticationServer\obj\Debug\netcoreapp2.1\AuthenticationServer.AssemblyInfo.cs
+D:\Flight Project\FlightProject\AuthenticationServer\obj\Debug\netcoreapp2.1\AuthenticationServer.csproj.CoreCompileInputs.cache
+D:\Flight Project\FlightProject\AuthenticationServer\obj\Debug\netcoreapp2.1\AuthenticationServer.RazorAssemblyInfo.cache
+D:\Flight Project\FlightProject\AuthenticationServer\obj\Debug\netcoreapp2.1\AuthenticationServer.RazorAssemblyInfo.cs
+D:\Flight Project\FlightProject\AuthenticationServer\bin\Debug\netcoreapp2.1\appsettings.Development.json
+D:\Flight Project\FlightProject\AuthenticationServer\bin\Debug\netcoreapp2.1\appsettings.json
+D:\Flight Project\FlightProject\AuthenticationServer\bin\Debug\netcoreapp2.1\AuthenticationServer.deps.json
+D:\Flight Project\FlightProject\AuthenticationServer\bin\Debug\netcoreapp2.1\AuthenticationServer.runtimeconfig.json
+D:\Flight Project\FlightProject\AuthenticationServer\bin\Debug\netcoreapp2.1\AuthenticationServer.runtimeconfig.dev.json
+D:\Flight Project\FlightProject\AuthenticationServer\bin\Debug\netcoreapp2.1\AuthenticationServer.dll
+D:\Flight Project\FlightProject\AuthenticationServer\bin\Debug\netcoreapp2.1\AuthenticationServer.pdb
+D:\Flight Project\FlightProject\AuthenticationServer\obj\Debug\netcoreapp2.1\AuthenticationServer.RazorTargetAssemblyInfo.cache
+D:\Flight Project\FlightProject\AuthenticationServer\obj\Debug\netcoreapp2.1\AuthenticationServer.dll
+D:\Flight Project\FlightProject\AuthenticationServer\obj\Debug\netcoreapp2.1\AuthenticationServer.pdb
+D:\Flight Project\FlightProject\AuthenticationServer\obj\Debug\netcoreapp2.1\AuthenticationServer.genruntimeconfig.cache
